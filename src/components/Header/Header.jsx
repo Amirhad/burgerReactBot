@@ -1,4 +1,5 @@
 import React from 'react'
+import Buttons from '../buttons/Buttons'
 import { useTelegram } from '../hooks/useTelegram'
 
 function Header() {
@@ -7,7 +8,7 @@ function Header() {
   return (
 
     <div className={'header'}>
-        <Button onClick={onClose}>Закрыть</Button>
+        <Buttons onClick={onClose}>Закрыть</Buttons>
         <span className={'username'}>
             {user?.username}
         </span>
