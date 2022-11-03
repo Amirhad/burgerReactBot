@@ -15,14 +15,14 @@ function Form() {
       subjuect,
     };
     tg.sendData(JSON.stringify(data));
-  }, []);
+  }, [country,street,subjuect]);
 
   useEffect(() => {
     tg.onEvent("mainButtonClicked", onSendData);
     return () => {
       tg.offEvent("mainButtonClicked", onSendData);
     };
-  });
+  },[onSendData]);
 
   useEffect(() => {
     tg.MainButton.setParams({
