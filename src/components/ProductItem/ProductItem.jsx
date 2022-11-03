@@ -11,7 +11,7 @@ function ProductItem({product, className}) {
     <div className={'product' + className}>
         <div className={'img'}/>
         <div className={'title'}>{product.title}</div>
-        <div className={'descrip'}>{product.description}</div>
+        <div className={'description'}>{product.description}</div>
         <div className={'price'}>
             <span>Стоимасть:<b>{product.price}</b></span>
         </div>
