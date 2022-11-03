@@ -1,10 +1,8 @@
-import React from 'react'
-import './ProductList.css'
+import React from "react";
+import "./ProductList.css";
 
 function ProductList() {
-  return (
-    <div>ProductList</div>
-  )
+  return <div>ProductList</div>;
 }
 
-export default ProductList
+export default ProductList;
