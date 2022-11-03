@@ -1,17 +1,17 @@
-.form{
+.form {
     display: flex;
     flex-direction: column;
     width: 100%;
     padding: 20px;
 }
 
-.input{
+.input {
     width: 100%;
     padding: 10px;
     margin-top: 15px;
 }
 
-.select{
+.select {
     padding: 10px;
     margin-top: 15px;
 }
