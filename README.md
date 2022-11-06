@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/92297776/200164233-09a561b1-aded-4c68-
 
 ## Для решения поставленных задач, использовал:
 
--Js, Express, Nodemon, Node-telegram-bot-api, Cors, React, React-router,
+-Node.js, Express, Nodemon, Node-telegram-bot-api, Cors, React, React-router,
 
 
 
