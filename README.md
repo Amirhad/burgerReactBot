@@ -23,6 +23,19 @@ https://user-images.githubusercontent.com/92297776/200164233-09a561b1-aded-4c68-
 -Js, Express, Nodemon, Node-telegram-bot-api, Cors, React, React-router,
 
 
+
+
+
+https://user-images.githubusercontent.com/92297776/200164257-8010b803-b60a-4db7-b1e4-a9999c64eae5.mp4
+
+
+
+https://user-images.githubusercontent.com/92297776/200164271-6b62c75e-dcf3-4b0f-a748-95ec3048b4a7.mp4
+
+
+
+
+
 ## Запуск проекта
 
 Для запуска проекта вам необходимо набрать команду в терминале:
